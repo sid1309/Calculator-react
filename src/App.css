@@ -1,0 +1,26 @@
+.edge{
+  background-color: aqua;
+  width:150px;
+  font-size: large;
+  border-radius: 1px solid black;
+ margin: 10px;
+ border-radius: 5px;
+ padding-bottom: 4px;
+}
+.num{
+  justify-content: center;
+  align-items: center;
+  margin: 5%;
+  width: 90%;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.but{
+  width: 30%;
+  margin: 2px;
+
+}
